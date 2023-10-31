@@ -1,4 +1,4 @@
-![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbuahin&count_private=true)
+<!-- ![Caleb's GitHub Stats](https://github-readme-stats.vercel.app/api?username=cbuahin&count_private=true) -->
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cbuahin&layout=compact)]()
 <!--
 **cbuahin/cbuahin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
